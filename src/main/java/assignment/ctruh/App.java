@@ -23,7 +23,7 @@ public class App
         String manualXPath = "//*[@id=\"test-7b9fdb1c-4151-4dfd-a98e-eefb882f0136\"]";
         System.out.println("Hello World!");
         // Set the path to your chromedriver executable
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\shree\\OneDrive\\Desktop\\assignment_workspace\\ctruh\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 
         // Set options if needed
         ChromeOptions options = new ChromeOptions();
